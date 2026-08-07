@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Технологии
+### Технологии
 
 **Languages & Databases:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🌟 Избранные проекты
+### Избранные проекты
 
 * **[ITnews](https://github.com/ArtemChik103/ITnews)** ([Live App](https://itnews-app.onrender.com)) — RAG-платформа сбора и семантического анализа IT-новостей. Векторный поиск (FastEmbed / PostgreSQL 16), интерактивный граф знаний на Cytoscape.js, RAG-чат на llama-3.3-70b.
 * **[Sonar / blind](https://github.com/ArtemChik103/blind)** — Ассистивное мобильное приложение на Flutter для незрячих. Распознавание объектов в реальном времени (EfficientDet Lite0 в фоновом Isolate), spatial TTS & haptics.
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Статистика
+### GitHub Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArtemChik103&show_icons=true&theme=radial&hide_border=true" alt="ArtemChik103's GitHub stats" height="175" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 📬 Связь со мной
+### Связь со мной
 
 - **Hugging Face Space:** [pechkurofff/dev-portfolio](https://huggingface.co/spaces/pechkurofff/dev-portfolio)
 - **Telegram:** [@pechkurofff](https://t.me/pechkurofff)
