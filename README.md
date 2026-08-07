@@ -40,7 +40,7 @@
 
 * **[ITnews](https://github.com/ArtemChik103/ITnews)** — RAG-платформа сбора и семантического анализа IT-новостей. Векторный поиск (FastEmbed / PostgreSQL 16), интерактивный граф знаний на Cytoscape.js, RAG-чат на llama-3.3-70b.
 * **[Sonar / blind](https://github.com/ArtemChik103/blind)** — Ассистивное мобильное приложение на Flutter для незрячих. Распознавание объектов в реальном времени (EfficientDet Lite0 в фоновом Isolate), spatial TTS & haptics.
-* **[Альфа-Аналитика](https://github.com/ArtemChik103/alfa)** — B2B ML-платформа с модулями геоаналитики (Folium), прогнозирования спроса (Prophet, LightGBM) и RFM-сегментации клиентов.
+* **[Альфа-Аналитика](https://github.com/ArtemChik103/alfa] ([Live App](https://xfyypucheqe9o52bzzmtsd.streamlit.app/))** — B2B ML-платформа с модулями геоаналитики (Folium), прогнозирования спроса (Prophet, LightGBM) и RFM-сегментации клиентов.
 
 ---
 
