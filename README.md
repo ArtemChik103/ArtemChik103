@@ -55,5 +55,6 @@
 
 ### Связаться со мной
 
+- **Hugging Face Space:** [pechkurofff/dev-portfolio](https://huggingface.co/spaces/pechkurofff/dev-portfolio)
 - **Telegram:** [@pechkurofff](https://t.me/pechkurofff)
 - **Email:** pvp.pv3@gmail.com
