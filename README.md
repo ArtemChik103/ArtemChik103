@@ -44,19 +44,6 @@
 
 ---
 
-### GitHub Статистика
-
-<p align="center">
-  <a href="https://github.com/ArtemChik103">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArtemChik103&show_icons=true&theme=radial&hide_border=true" alt="ArtemChik103's GitHub stats" height="175" />
-  </a>
-  <a href="https://github.com/ArtemChik103">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemChik103&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="175" />
-  </a>
-</p>
-
----
-
 ### Связь со мной
 
 - **Hugging Face Space:** [pechkurofff/dev-portfolio](https://huggingface.co/spaces/pechkurofff/dev-portfolio)
