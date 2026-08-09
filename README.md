@@ -43,9 +43,10 @@
 * **[Альфа-Аналитика](https://github.com/ArtemChik103/alfa)** ([Live App](https://xfyypucheqe9o52bzzmtsd.streamlit.app/)) — B2B ML-платформа с модулями геоаналитики (Folium), прогнозирования спроса (Prophet, LightGBM) и RFM-сегментации клиентов.
 * **[amurcode](https://github.com/ArtemChik103/amurcode)** ([Live App](https://amurcode.onrender.com)) — Аналитическая веб-платформа бюджета и госрасходов для БФТ и Минфина (FastAPI, Vue 3, openpyxl, ReportLab, 100+ автотестов).
 * **[exam](https://github.com/ArtemChik103/exam)** ([Live App на Vercel](https://exam-wine-seven.vercel.app/)) — Интерактивный тренажер подготовки к экзаменам по компьютерным сетям (React 19, Vite, Zustand).
+* **[lgs (Telegram Mini App)](https://github.com/ArtemChik103/lgs)** ([Live Frontend на Vercel](https://webapp-frontend-nu-flame.vercel.app)) — Telegram Mini App страховых сценариев (React UI, Aiogram 3).
+* **[hakaton](https://github.com/ArtemChik103/hakaton)** ([Live App на Vercel](https://hakaton-repo.vercel.app)) — Веб-приложение хакатона для IT-платформы (Vue.js).
 * **[sber (Guardian of Truth)](https://github.com/ArtemChik103/sber)** ([Live App](https://sber-guardian-of-truth.onrender.com)) — Детектор галлюцинаций LLM и валидатор безопасности ответов нейросетей (Groq API, Scikit-learn, SQLite, CI/CD).
 * **[avito (Avito Splitter)](https://github.com/ArtemChik103/avito)** ([Live App](https://avito-splitter.onrender.com)) — NLP микросервис разделения комплексных объявлений Авито (FastAPI, pymorphy3, Gradio, Playwright).
-* **[lgs (Telegram Mini App)](https://github.com/ArtemChik103/lgs)** ([Live App](https://lgs-telegram-miniapp.onrender.com)) — Telegram Mini App страховых сценариев (React UI, Aiogram 3).
 * **[Sonar / blind](https://github.com/ArtemChik103/blind)** — Ассистивное мобильное приложение на Flutter для незрячих. Распознавание объектов в реальном времени (EfficientDet Lite0 в фоновом Isolate), spatial TTS & haptics.
 
 ---
